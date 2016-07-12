@@ -24,4 +24,5 @@ defmodule WordFreq.Parser do
 		|> tl 
 		|> group(m)
 	end
+	
 end
